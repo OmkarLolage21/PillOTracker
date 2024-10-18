@@ -1,4 +1,4 @@
-# pill_tracker
+# Pill_O_tracker
 
 A new Flutter project.
 
